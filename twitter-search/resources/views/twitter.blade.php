@@ -19,5 +19,5 @@
         </div>
     </body>
 </html> 
-<script src="{{ mix('js/app.js') }}"></script>
+<script src="./js/app.js"></script>
 <script src="./js/twitter.js"></script>
